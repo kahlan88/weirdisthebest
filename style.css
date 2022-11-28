@@ -4825,8 +4825,8 @@ Portfolio Listing
   display: flex;
 }
 .under-construction-image-wrap {
-  max-width: 250px;
-  flex: 0 1 250px;
+  max-width: 200px;
+  flex: 0 1 200px;
 }
 .under-construction-image {
   max-width: 100%;
