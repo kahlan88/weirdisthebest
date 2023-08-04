@@ -1,6 +1,6 @@
 {
-    "name": "Weird is the Best",
-    "short_name": "Weird is the Best",
+    "name": "Weird Is The Best",
+    "short_name": "Weird Is The Best",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#bbe795",
-    "background_color": "#bbe795",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
     "display": "standalone"
 }
