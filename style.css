@@ -15,7 +15,7 @@ body {
   font-size: 15px;
   line-height: 1.8;
   font-weight: 400;
-  color: #575757;
+  color: #29335c;
 }
 
 h1,
@@ -33,7 +33,7 @@ h6 {
 
 h1 {
   font-size: 44px;
-  color: #e863a0;
+  color: #e7639e;
 }
 
 h2 {
@@ -61,23 +61,23 @@ p {
   line-height: 26px;
   margin: 0 0 20px;
   padding: 0;
-  color: #575757;
+  color: #29335c;
 }
 
 a {
-  color: #e863a0;
+  color: #e7639e;
   -webkit-transition: color 300ms ease-in;
   transition: color 300ms ease-in;
   text-decoration: underline;
 }
 a:hover {
-  color: #ab5798;
+  color: #29335c;
   text-decoration: none;
 }
 a:focus {
-  color: #ab5798;
+  color: #29335c;
   text-decoration: none;
-  outline: 1px solid #ab5798;
+  outline: 1px solid #29335c;
 }
 
 dfn,
@@ -981,7 +981,7 @@ Footer
   content: initial;
 }
 .site-footer .copyright {
-  color: #575757;
+  color: #29335c;
   font-size: 13px;
   font-weight: 400;
   margin-bottom: 0;
@@ -990,12 +990,12 @@ Footer
   margin: 0 6px;
 }
 .site-footer .social-links-menu li a {
-  color: #e863a0;
+  color: #e7639e;
   text-decoration: none;
   font-size: 20px;
 }
 .site-footer .social-links-menu li i {
-  color: #e863a0;
+  color: #e7639e;
   font-size: 20px;
 }
 .site-footer .social-links-menu li a:hover i {
@@ -1227,10 +1227,10 @@ Header Standard
     color: rgba(21, 21, 21, 0.6);
   }
   #masthead.site-header.standard #site-navigation .menu > li:hover > a {
-    color: #e863a0;
+    color: #e7639e;
   }
   #masthead.site-header.standard #site-navigation .menu > li:hover > a {
-    color: #e863a0;
+    color: #e7639e;
   }
   #masthead.site-header.standard #site-navigation .menu > li > a {
     color: #151515;
@@ -1335,16 +1335,16 @@ Header Hamburger
   }
   #masthead.site-header.left-sidebar #site-navigation .menu > li.current-menu-parent > a,
   #masthead.site-header.left-sidebar #site-navigation .menu > li.current-menu-ancestor > a {
-    color: #575757;
+    color: #29335c;
   }
   #masthead.site-header.left-sidebar #site-navigation .menu > li:hover > a {
-    color: #575757;
+    color: #29335c;
   }
   #masthead.site-header.left-sidebar #site-navigation .menu > li > a {
     color: #151515;
   }
   #masthead.site-header.left-sidebar #site-navigation .menu > li a:hover {
-    color: #575757;
+    color: #29335c;
   }
   #masthead.site-header.left-sidebar #site-navigation #hamburger-menu-close-trigger {
     cursor: pointer;
@@ -1540,16 +1540,16 @@ Header Hamburger
 }
 #masthead.site-header.hamburger-side #site-navigation .menu > li.current-menu-parent > a,
 #masthead.site-header.hamburger-side #site-navigation .menu > li.current-menu-ancestor > a {
-  color: #575757;
+  color: #29335c;
 }
 #masthead.site-header.hamburger-side #site-navigation .menu > li:hover > a {
-  color: #575757;
+  color: #29335c;
 }
 #masthead.site-header.hamburger-side #site-navigation .menu > li > a {
   color: #fff;
 }
 #masthead.site-header.hamburger-side #site-navigation .menu > li a:hover {
-  color: #575757;
+  color: #29335c;
 }
 #masthead.site-header.hamburger-side #site-navigation #hamburger-menu-close-trigger {
   cursor: pointer;
@@ -1887,7 +1887,7 @@ Portfolio Details
   font-size: 14px;
   line-height: normal;
   font-weight: 400;
-  color: #575757;
+  color: #29335c;
 }
 .single-portfolio .portfolio .entry-header .entry-meta .meta-entries ul li:not(.portfolio-social-share-links) a:after {
   content: ",";
@@ -2169,7 +2169,7 @@ img.lightbox-plus,
 }
 .related-portfolio-post .cbp-l-grid-agency-desc {
   font-size: 15px;
-  color: #575757;
+  color: #29335c;
 }
 .related-portfolio-post .cbp-l-grid-agency-title {
   font-size: 18px;
@@ -3244,7 +3244,7 @@ h2.widget-title:after {
 
 .widget a,
 .widget li {
-  color: #575757;
+  color: #29335c;
 }
 
 .widget a {
@@ -3968,7 +3968,7 @@ Team
 .team-member .member-info h6 .member-position {
   font-size: 14px;
   font-weight: 400;
-  color: #575757;
+  color: #29335c;
   display: block;
   letter-spacing: 0;
 }
@@ -4247,7 +4247,7 @@ Portfolio Section
 }
 
 .cbp-l-grid-agency-desc {
-  color: #575757;
+  color: #29335c;
   font-size: 15px;
 }
 
@@ -4512,7 +4512,7 @@ Portfolio slider
 }
 .swiper-container.portfolio-fullwidth-slider .swiper-slide-item .swiper-image-wrap .swiper-title-wrap div {
   font-size: 18px;
-  color: #575757;
+  color: #29335c;
 }
 .swiper-container.portfolio-fullwidth-slider .swiper-slide-item .swiper-image-wrap .swiper-title-wrap a {
   font-size: 11px;
