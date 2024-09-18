@@ -4926,4 +4926,35 @@ Portfolio Listing
   width: 100%;
 }
 
+/* Footer Mailchimp */
+.footer-signup {
+  padding-top: 1rem;
+  margin-top: 2rem;
+  border-top: 1px solid rgba(175, 175, 175, 0.2);
+}
+.footer-signup #mc_embed_signup {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: auto;
+}
+.footer-signup #mc_embed_signup form {
+  margin: 0;
+}
+.footer-signup #mc_embed_signup_scroll {
+  display: flex;
+  flex-wrap: wrap;
+}
+.footer-signup #mc_embed_signup h2 {
+  margin-top: 5px;
+  flex-basis: 100%;
+}
+.footer-signup #mc_embed_signup .mc-field-group {
+  width: auto;
+  flex-basis: 50%;
+  margin-bottom: 1rem;
+  padding-bottom: 0;
+}
+.footer-signup #mc_embed_signup .optionalParent {
+  flex-basis: 50%;
+}
 /*# sourceMappingURL=style.css.map */
