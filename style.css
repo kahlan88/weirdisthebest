@@ -4833,90 +4833,6 @@ Portfolio Listing
   max-width: 100%;
 }
 
-#mc_embed_signup {
-  margin-top: 50px;
-  margin-bottom: 50px;
-}
-
-#mc_embed_signup form {
-  display: block;
-  position: relative;
-  text-align: left;
-  margin: 20px 0;
-}
-
-#mc_embed_signup .indicates-required {
-  text-align: right;
-  font-size: 11px;
-  margin-right: 4%;
-}
-
-#mc_embed_signup .asterisk {
-  color: #e85c41;
-  font-size: 150%;
-  font-weight: normal;
-  position: relative;
-  top: 5px;
-}
-
-#mc_embed_signup .mc-field-group {
-  clear: left;
-  position: relative;
-  padding-bottom: 3%;
-  min-height: 50px;
-  display: grid;
-}
-
-#mc_embed_signup .mc-field-group label {
-  line-height: 1;
-  display: block;
-  margin-bottom: 5px;
-}
-
-#mc_embed_signup .mc-field-group input {
-  display: block;
-  width: 100%;
-  padding: 8px 0;
-  text-indent: 2%;
-}
-
-#mc_embed_signup .helper_text {
-  color: #8d8985;
-  margin-top: 2px;
-  display: inline-block;
-  padding: 3px;
-  background-color: rgba(255, 255, 255, 0.85);
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  border-radius: 3px;
-  font-size: 14px;
-  font-weight: normal;
-  z-index: 1;
-}
-
-#mc_embed_signup div#mce-responses {
-  float: left;
-  top: -1.4em;
-  padding: 0em 0.5em 0em 0.5em;
-  overflow: hidden;
-  width: 90%;
-  margin: 0 5%;
-  clear: both;
-}
-#mc_embed_signup .foot {
-  display: grid;
-  grid-template-columns: 3fr 1fr;
-  align-items: center;
-}
-
-#mc_embed_signup .button {
-  width: fit-content;
-}
-
-#mc_embed_signup .brandingLogo {
-  justify-self: right;
-}
-
 .center {
   justify-content: center !important;
   margin-left: auto;
@@ -4925,38 +4841,6 @@ Portfolio Listing
 
 .about-wrap img {
   width: 100%;
-}
-
-/* Footer Mailchimp */
-.footer-signup {
-  padding-top: 1rem;
-  margin-top: 2rem;
-  border-top: 1px solid rgba(175, 175, 175, 0.2);
-}
-.footer-signup #mc_embed_signup {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  width: auto;
-}
-.footer-signup #mc_embed_signup form {
-  margin: 0;
-}
-.footer-signup #mc_embed_signup_scroll {
-  display: flex;
-  flex-wrap: wrap;
-}
-.footer-signup #mc_embed_signup h2 {
-  margin-top: 5px;
-  flex-basis: 100%;
-}
-.footer-signup #mc_embed_signup .mc-field-group {
-  width: auto;
-  flex-basis: 50%;
-  margin-bottom: 1rem;
-  padding-bottom: 0;
-}
-.footer-signup #mc_embed_signup .optionalParent {
-  flex-basis: 50%;
 }
 
 /* hs updates form */
