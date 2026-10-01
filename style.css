@@ -1737,7 +1737,7 @@ Header General
   }
 }
 
-@media (-webkit-min-device-pixel-ratio: 1.5),
+/* @media (-webkit-min-device-pixel-ratio: 1.5),
 (min--moz-device-pixel-ratio: 1.5),
 (-o-min-device-pixel-ratio: 3 / 2),
 (min-device-pixel-ratio: 1.5),
@@ -1753,7 +1753,7 @@ Header General
 
 #masthead.site-header #site-branding .retina-logo {
   max-width: 50px;
-}
+} */
 
 /*--------------------------------------------------------------
 Portfolio Details
@@ -5253,7 +5253,7 @@ Portfolio Listing
 #mc_embed_signup div#mce-responses {
   /* float: left; */
   top: -1.4em;
-  padding: 1em 0.5em;
+  padding: 1em 0.5em 3em;
   overflow: hidden;
   width: 90%;
   margin: 0 5%;
@@ -5280,6 +5280,43 @@ Portfolio Listing
   width: 100%;
 }
 
+/* Footer Mailchimp */
+.footer-signup {
+  padding-top: 1rem;
+  margin-top: 2rem;
+  border-top: 1px solid rgba(175, 175, 175, 0.2);
+}
+
+.footer-signup #mc_embed_signup {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: auto;
+}
+
+.footer-signup #mc_embed_signup form {
+  margin: 0;
+}
+
+.footer-signup #mc_embed_signup_scroll {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footer-signup #mc_embed_signup h2 {
+  margin-top: 5px;
+  flex-basis: 100%;
+}
+
+.footer-signup #mc_embed_signup .mc-field-group {
+  width: auto;
+  flex-basis: 50%;
+  margin-bottom: 1rem;
+  padding-bottom: 0;
+}
+
+.footer-signup #mc_embed_signup .optionalParent {
+  flex-basis: 50%;
+}
 
 
 /*# sourceMappingURL=style.css.map */
